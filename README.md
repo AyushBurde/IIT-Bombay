@@ -1,3 +1,4 @@
 # IIT-Bombay
 This is our 4th Hackathon which is going to be very interesting for us. And we made amazing app for the first round which is going to be held online 
-hh
+ we've been working on our hackathon idea for weeks, and we are finally ready to unleash it on the world! #IITBombayHackathon
+we are so grateful for the opportunity to participate in this incredible event. Thank you, IIT Bombay!
